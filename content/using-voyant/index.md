@@ -5,7 +5,7 @@ date: "2012-04-06"
 weight: 20
 ---
 
-## Upload the Data to Voyant
+## Uploading Data to Voyant
 Voyant offers several ways to upload text. You can upload individual text files from your computer, past lines into the box provided, or upload a zip file of many files. Once you've downloaded the zip file of data we can simply upload it to Voyant. To upload the file:
 
  - Select **Upload** from the Voyant Tools Homepage {{< figure src="/images/voyantserver-home.png" >}}
