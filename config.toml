@@ -1,6 +1,6 @@
 baseurl = "https://www.amanda-regan.com/Workshop-UCR/"
 languageCode = "en-us"
-title = "Text Analysis for Humanists"
+title = "Text Analysis with Voyant"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -38,9 +38,8 @@ googleAnalytics = ""
 
 
 [social]
-	twitter = ""
-	github  = "digitalcraftsman"
-	email   = "hello@email.com"
+	twitter = "regan008"
+	email   = "aregan2@gmu.edu"
 
 
 [[menu.main]]
