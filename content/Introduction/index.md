@@ -3,7 +3,7 @@ title: "What is Text Analysis?"
 lastmod: 2015-12-23
 date: "2012-04-06"
 weight: 10
-draft="true"
+draft: "true"
 ---
 
 ## Types of Text Analysis
