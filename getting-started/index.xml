@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Getting Started-rsses on Text Analysis for Humanists</title>
+    <title>Getting Started-rsses on Text Analysis with Voyant</title>
     <link>https://www.amanda-regan.com/Workshop-UCR/getting-started/index.xml</link>
-    <description>Recent content in Getting Started-rsses on Text Analysis for Humanists</description>
+    <description>Recent content in Getting Started-rsses on Text Analysis with Voyant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
@@ -27,9 +27,33 @@
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.java.com/en/&#34;&gt;Install or Update Java&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Download &lt;a href=&#34;https://github.com/sgsinclair/VoyantServer/releases/tag/2.2.0-M2&#34;&gt;Voyant Server from Github&lt;/a&gt; (If the download doesn&amp;rsquo;t work for you, I have the file on a flash drive)&lt;/li&gt;
-&lt;li&gt;Unzip the Voyant Server Package. The resulting folder of files should look like this: &lt;strong&gt;[image]&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Double click the VoyantServer.jar file. When you open this file a new window (see image below) will pop up with numerous server controls. If you&amp;rsquo;re curious about what these all mean you can read about the options in the documentation for the Voyant Server. However, in short, this window begins to launch a server which will generate the Voyant tools interface. &lt;strong&gt;[image]&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Once the server has booted up a new browser window will open. &lt;strong&gt;[image]&lt;/strong&gt;
+&lt;li&gt;Unzip the Voyant Server Package. The resulting folder of files should look like this:
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://www.amanda-regan.com/Workshop-UCR/images/voyant-server-zip-contents.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Double click the VoyantServer.jar file. When you open this file a new window (see image below) will pop up with numerous server controls. If you&amp;rsquo;re curious about what these all mean you can read about the options in the documentation for the Voyant Server. However, in short, this window begins to launch a server which will generate the Voyant tools interface.
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://www.amanda-regan.com/Workshop-UCR/images/voyantserver-controls.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Once the server has booted up a new browser window will open.
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://www.amanda-regan.com/Workshop-UCR/images/voyantserver-home.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
 ** If your default browser is Chrome you&amp;rsquo;ll need to paste the address into a new window in a different browser. Both Safari and Firefox work. The default address should be: &lt;a href=&#34;http://127.0.0.1:8888/&#34;&gt;http://127.0.0.1:8888/&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 

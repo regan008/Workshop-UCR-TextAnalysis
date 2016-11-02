@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Using-voyant-rsses on Text Analysis for Humanists</title>
+    <title>Using-voyant-rsses on Text Analysis with Voyant</title>
     <link>https://www.amanda-regan.com/Workshop-UCR/using-voyant/index.xml</link>
-    <description>Recent content in Using-voyant-rsses on Text Analysis for Humanists</description>
+    <description>Recent content in Using-voyant-rsses on Text Analysis with Voyant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
@@ -23,22 +23,46 @@
 &lt;p&gt;Voyant offers several ways to upload text. You can upload individual text files from your computer, past lines into the box provided, or upload a zip file of many files. Once you&amp;rsquo;ve downloaded the zip file of data we can simply upload it to Voyant. To upload the file:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Select &lt;strong&gt;Upload&lt;/strong&gt; from the Voyant Tools Homepage &lt;strong&gt;[image]&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Navigate to the location where the file is saved on your computer. (Likely the downloads folder). &lt;strong&gt;[image]&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Once you&amp;rsquo;ve selected the file click open and Voyant will upload the file and direct you to the dashboard. This may take a few minutes since this is a very large corpus of documents. &lt;strong&gt;[image of dashboard]&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Upload&lt;/strong&gt; from the Voyant Tools Homepage 
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://www.amanda-regan.com/Workshop-UCR/images/voyantserver-home.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Navigate to the location where the file is saved on your computer. (Likely the downloads folder). 
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://www.amanda-regan.com/Workshop-UCR/images/upload-data.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Once you&amp;rsquo;ve selected the file, click open and Voyant will upload the file and direct you to the dashboard. This may take a few minutes since this is a very large corpus of documents. 
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://www.amanda-regan.com/Workshop-UCR/images/default-skin.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;exploring-the-default-skin&#34;&gt;Exploring the &amp;ldquo;Default Skin&amp;rdquo;&lt;/h2&gt;
 
 &lt;p&gt;After uploading the corpus, you will be redirected to what Voyant calls the &amp;ldquo;default skin&amp;rdquo;, or, the default configuration of tools. To understand the many options, tools, and settings available in Voyant &lt;a href=&#34;http://voyant-tools.org/docs/#!/guide&#34;&gt;see the documentation&lt;/a&gt;. Below is a quick walk through of the default tools.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;(More detail coming soon.)&lt;/em&gt;&lt;/strong&gt;
-* Cirrus
-* Terms
-* Links (or Collocation)
-* Trends
-* Document Trends
-* Phrases&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;(More detail coming soon.)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cirrus&lt;/li&gt;
+&lt;li&gt;Terms&lt;/li&gt;
+&lt;li&gt;Links (or Collocation)&lt;/li&gt;
+&lt;li&gt;Trends&lt;/li&gt;
+&lt;li&gt;Document Trends&lt;/li&gt;
+&lt;li&gt;Phrases&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
