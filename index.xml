@@ -11,6 +11,47 @@
     <atom:link href="https://www.amanda-regan.com/Workshop-UCR/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>What is Text Analysis?</title>
+      <link>https://www.amanda-regan.com/Workshop-UCR/introduction/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.amanda-regan.com/Workshop-UCR/introduction/</guid>
+      <description>
+
+&lt;h2 id=&#34;types-of-text-analysis&#34;&gt;Types of Text Analysis&lt;/h2&gt;
+
+&lt;p&gt;&amp;ldquo;Text Analysis&amp;rdquo; is a broad category that describes a number of specific methodologies that have been adapted from the fields of computer science and linguistics and used for humanistic inquiry.&lt;/p&gt;
+
+&lt;p&gt;Some of the most popular forms of text analysis include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;N-Grams&lt;/li&gt;
+&lt;li&gt;Topic Modeling&lt;/li&gt;
+&lt;li&gt;Sentiment Analysis&lt;/li&gt;
+&lt;li&gt;Named Entity Recognition&lt;/li&gt;
+&lt;li&gt;Word Embedded Models&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;examples-of-scholarly-projects-using-text-analysis&#34;&gt;Examples of Scholarly Projects Using Text Analysis&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mining the Dispatch, author name&lt;/li&gt;
+&lt;li&gt;Mining Martha Ballard&amp;rsquo;s Diary, Cameron Blevins&lt;/li&gt;
+&lt;li&gt;America&amp;rsquo;s Public Bible, Lincoln Mullen&lt;/li&gt;
+&lt;li&gt;Mining Kissenger&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-data&#34;&gt;The Data&lt;/h2&gt;
+
+&lt;p&gt;The corpus we&amp;rsquo;ll be using is composed of the full run of &lt;em&gt;Mind and Body&lt;/em&gt; which was a monthly journal of physical education that ran from 1890 to 1936.&lt;/p&gt;
+
+&lt;p&gt;Navigate to Voyant by going to &lt;a href=&#34;http://www.../voyant-tools.org&#34;&gt;http://www.voyant-tools.org&lt;/a&gt; in your browser.&lt;/p&gt;
+
+&lt;p&gt;Voyant Tools provides a web based environment for text analysis. Created by Stéfan Sinclair and Geoffrey Rockwell. It draws on a variety of software libraries to create an array of options for users to analyze a corpus of text.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Using Voyant Tools</title>
       <link>https://www.amanda-regan.com/Workshop-UCR/using-voyant/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
