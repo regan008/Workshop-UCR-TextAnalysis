@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text Analysis for Humanists</title>
+    <link>https://www.amanda-regan.com/Workshop-UCR/index.xml</link>
+    <description>Recent content on Text Analysis for Humanists</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Fri, 06 Apr 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.amanda-regan.com/Workshop-UCR/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using Voyant Tools</title>
+      <link>https://www.amanda-regan.com/Workshop-UCR/using-voyant/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.amanda-regan.com/Workshop-UCR/using-voyant/</guid>
+      <description>
+
+&lt;h2 id=&#34;upload-the-data-to-voyant&#34;&gt;Upload the Data to Voyant&lt;/h2&gt;
+
+&lt;p&gt;Voyant offers several ways to upload text. You can upload individual text files from your computer, past lines into the box provided, or upload a zip file of many files. Once you&amp;rsquo;ve downloaded the zip file of data we can simply upload it to Voyant. To upload the file:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Select &lt;strong&gt;Upload&lt;/strong&gt; from the Voyant Tools Homepage &lt;strong&gt;[image]&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Navigate to the location where the file is saved on your computer. (Likely the downloads folder). &lt;strong&gt;[image]&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Once you&amp;rsquo;ve selected the file click open and Voyant will upload the file and direct you to the dashboard. This may take a few minutes since this is a very large corpus of documents. &lt;strong&gt;[image of dashboard]&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;exploring-the-default-skin&#34;&gt;Exploring the &amp;ldquo;Default Skin&amp;rdquo;&lt;/h2&gt;
+
+&lt;p&gt;After uploading the corpus, you will be redirected to what Voyant calls the &amp;ldquo;default skin&amp;rdquo;, or, the default configuration of tools. To understand the many options, tools, and settings available in Voyant &lt;a href=&#34;http://voyant-tools.org/docs/#!/guide&#34;&gt;see the documentation&lt;/a&gt;. Below is a quick walk through of the default tools.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;(More detail coming soon.)&lt;/em&gt;&lt;/strong&gt;
+* Cirrus
+* Terms
+* Links (or Collocation)
+* Trends
+* Document Trends
+* Phrases&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voyant Tools</title>
+      <link>https://www.amanda-regan.com/Workshop-UCR/getting-started/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.amanda-regan.com/Workshop-UCR/getting-started/</guid>
+      <description>
+
+&lt;p&gt;Voyant Tools is a web based environment for text analysis that was created by Stéfan Sinclair and Geoffrey Rockwell. It draws on a variety methodological techniques for text analysis to create an array of options for looking at a corpus of text all in one convenient dashboard.&lt;/p&gt;
+
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+
+&lt;p&gt;Although Voyant Tools is a web based set of tools, we&amp;rsquo;ll be downloading it and running it locally. Downloading Voyant to your own computer brings a number of advantages but the main impetus for doing so today is so that we won&amp;rsquo;t encounter loading issues resulting from overwhelming the server. However using Voyant locally also means that your texts won&amp;rsquo;t be cached and stored on the Voyant Server, it allows you to restart the server if you encounter problems, and it allows you to work offline, without an internet connection.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.java.com/en/&#34;&gt;Install or Update Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Download &lt;a href=&#34;https://github.com/sgsinclair/VoyantServer/releases/tag/2.2.0-M2&#34;&gt;Voyant Server from Github&lt;/a&gt; (If the download doesn&amp;rsquo;t work for you, I have the file on a flash drive)&lt;/li&gt;
+&lt;li&gt;Unzip the Voyant Server Package. The resulting folder of files should look like this: &lt;strong&gt;[image]&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Double click the VoyantServer.jar file. When you open this file a new window (see image below) will pop up with numerous server controls. If you&amp;rsquo;re curious about what these all mean you can read about the options in the documentation for the Voyant Server. However, in short, this window begins to launch a server which will generate the Voyant tools interface. &lt;strong&gt;[image]&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Once the server has booted up a new browser window will open. &lt;strong&gt;[image]&lt;/strong&gt;
+** If your default browser is Chrome you&amp;rsquo;ll need to paste the address into a new window in a different browser. Both Safari and Firefox work. The default address should be: &lt;a href=&#34;http://127.0.0.1:8888/&#34;&gt;http://127.0.0.1:8888/&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;download-the-data&#34;&gt;Download the Data&lt;/h2&gt;
+
+&lt;p&gt;The data is available at www.github.com/regan008/MindandBodyCorpus. To download it use the click the green &lt;strong&gt;Clone or Download&lt;/strong&gt; button and then select &lt;strong&gt;Download ZIP&lt;/strong&gt; from the dropdown box.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://www.amanda-regan.com/Workshop-UCR/images/download-data.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;about-the-data&#34;&gt;About the Data&lt;/h2&gt;
+
+&lt;p&gt;For this workshop we&amp;rsquo;ll be using a corpus of text that I have curated. &lt;em&gt;Mind and Body&lt;/em&gt; was a monthly publication which began publishing at a moment when physical education was beginning to emerge as a viable vocation. The publication emerged at a critical time in the history of physical education and worked to support the profession by republishing talks given at local conferences, circulating news, and publishing resources for physical educators. Closely associated with the North American Gymnastic Union, the successor to the German-American Turnverein, Mind and Body continually supported those within the profession and provided a platform for debates about physical training in schools.&lt;/p&gt;
+
+&lt;p&gt;Physical Education was not a new field in 1894. Rather, its roots reach as far back as the 1830s however, it did not become a widespread vocation until the late 19th century. Beginning in the 1830s and lasting well into the 1920s a controversy over the type of physical education that should be practiced raged throughout the United States. The “Battle of the Systems,” as it was known, pitted German, Swedish and English systems of exercise, often carried over to America by immigrants, against each other. German immigrants established Turner societies in the United States which promoted gymnastic training while Swedish immigrants aimed to promote health through prescribed light movements. In contrast, the English school of thought advocated for physical education though sports and games. They argued that participation in sports and games helped to encourage moral development. The pressure to implement prescribed physical activity in school was successful when, in 1855, Cincinnati became the first city school system to offer Physical education in public schools. California followed suite shortly after in 1866 and passed legislation requiring two exercise periods during each school day. Mind and Body advocated the German system most frequently and many of its board members and contributors were involved in Turneverin’s across the country. However, while many of the editors were advocates for the German system they frequently allowed others to present the opposite point of view and provided a space for debates.&lt;/p&gt;
+
+&lt;p&gt;The “Battle of the Systems” raged throughout the 19th century however, by the turn of the century when physical education was undergoing professionalization, developments in science and medicine began to influence how educators prescribed physical exercise. As Martha Verbrugge has discussed in her work, Active Bodies: A History of Women’s Physical Education, the field set out to “secure an occupational niche, train practitioners, create a unique base of knowledge and expertise, and build an infrastructure for advancing and regulating itself.”&lt;a href=&#34;#&#34;&gt;5&lt;/a&gt;  Mind and Body was one of several publications that emerged in the 1890s and aimed to support the new profession.&lt;/p&gt;
+
+&lt;p&gt;As science and knowledge about the human body became more advanced in the early twentieth century, educators often argued over the role of science and medical knowledge in the gymnasium. Some believed educators should use their position to conduct research and produce findings on the effects of exercise on the body while others believed that research within the gymnasium was a distraction and educators should, instead, focus on refining their pedagogical methods. This tension between research and pedagogy is often reflected within Mind and Body and was a consistent topic as the vocation worked to establish guidelines and standards for the profession. As a result, the voices included within Mind and Body tend to be diverse. Contributors often included medical professionals, educational professionals, and municipal officials from cities across the United States. In addition to reprints of lectures, original articles, and lesson plans, the editorial committee often published translations of foreign texts about physical education and physical training for men, women, and children.&lt;/p&gt;
+
+&lt;p&gt;While the balance between research and pedagogy was often a concern in &lt;em&gt;Mind and Body&lt;/em&gt;, most agreed that physical education was of the utmost importance and was useful in training not only the body but also the mind and spirit. For proponents of physical training in the late nineteenth and early twentieth century, exercise of the body in a mechanistic and efficient manner shaped not only the exterior appearance of the body but also helped to hone the mind and the spirit. In its first issue, Carl Betz, a frequent contributor to Mind and Body, argued that “drills, exercises, plays, games and sports all go toward preserving the equilibrium of all the physical and psychical forces of the body, in order that the soul (mind) can attain its highest state of perfection.”&lt;a href=&#34;#&#34;&gt;6&lt;/a&gt; While the authors who contributed to Mind and Body often debated the proper type of exercise as well as the balance between research and pedagogy, most agreed that the aim of gymnastic work was both physical and spiritual.&lt;/p&gt;
+
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Martha H. Verbrugge, &lt;em&gt;Active Bodies: A History of Women’s Physical Education in Twentieth-Century America&lt;/em&gt;, first edition (New York: Oxford University Press, 2012).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Carl Betz, “Swedish Versus German Gymnastics,” &lt;em&gt;Mind and Body: A Monthly Journal Devoted to Physical Education&lt;/em&gt;, Vol 1, no. 1 (March 1894): 12–13.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Other Resources for Getting Started with Text Analysis</title>
+      <link>https://www.amanda-regan.com/Workshop-UCR/resources/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.amanda-regan.com/Workshop-UCR/resources/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Programming Historian&lt;/li&gt;
+&lt;li&gt;DH in R&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
