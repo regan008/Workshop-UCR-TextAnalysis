@@ -5,5 +5,4 @@ date: "2012-04-06"
 weight: 30
 ---
 
-* Programming Historian
-* DH in R
+Coming soon. 
