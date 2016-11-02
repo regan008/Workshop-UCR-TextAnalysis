@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Text Analysis with Voyant</title>
+    <title>Voyant Tools Workshop</title>
     <link>https://www.amanda-regan.com/Workshop-UCR/index.xml</link>
-    <description>Recent content on Text Analysis with Voyant</description>
+    <description>Recent content on Voyant Tools Workshop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
@@ -17,18 +17,6 @@
       
       <guid>https://www.amanda-regan.com/Workshop-UCR/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.amanda-regan.com/Workshop-UCR/introduction/</link>
-      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.amanda-regan.com/Workshop-UCR/introduction/</guid>
-      <description>
-
-&lt;h2 id=&#34;this-page-is-a-work-in-progress-please-proceed-to-getting-started&#34;&gt;This page is a work in progress. Please proceed to getting started.&lt;/h2&gt;
-</description>
     </item>
     
     <item>
