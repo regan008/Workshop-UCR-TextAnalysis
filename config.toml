@@ -1,6 +1,6 @@
 baseurl = "https://www.amanda-regan.com/Workshop-UCR/"
 languageCode = "en-us"
-title = "Text Analysis with Voyant"
+title = "Voyant Tools Workshop"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -16,7 +16,7 @@ googleAnalytics = ""
 
 
 
-	logo = "images/logo.png"
+	logo = ""
 	favicon = ""
 
 	permalink = "#"
@@ -33,7 +33,7 @@ googleAnalytics = ""
     	accent  = "teal"
 
     [params.font]
-    	text = "Roboto"
+    	text = "Open Sans"
     	code = "Ubuntu Mono"
 
 
