@@ -42,10 +42,10 @@ googleAnalytics = ""
 	email   = "aregan2@gmu.edu"
 
 
-[[menu.main]]
-	name   = "Introduction"
-	url    = "introduction/"
-	weight = 0
+# [[menu.main]]
+# 	name   = "Introduction"
+# 	url    = "introduction/"
+# 	weight = 0
 
 [[menu.main]]
 	name   = "Getting started"
