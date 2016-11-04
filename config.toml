@@ -1,69 +1,74 @@
 baseurl = "https://www.amanda-regan.com/Workshop-UCR/"
 languageCode = "en-us"
 title = "Voyant Tools Workshop"
-theme = "hugo-material-docs"
+theme = "hugo-theme-bootstrap4-blog"
 metadataformat = "yaml"
-canonifyurls = true
-# Enable Google Analytics by entering your tracking id
-googleAnalytics = ""
 
+# number of posts to show on home/category/tag pages (Default: 10)
+paginate = 5
+# optionally override the site's footer with custom copyright text
+# copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
+#googleAnalytics = "UA-123-45"
+
+[permalinks]
+  post = "/:year/:month/:title/"
+  page = "/:slug/"
+
+[[menu.sidebar]]
+  name = "Link 1"
+  url = "https://example.com"
+
+[[menu.sidebar]]
+  name = "Link 2"
+  url = "https://example.org"
+
+# Theme variables
+#
 [params]
-	# General information
-	author = "Amanda Regan"
-	description = "A text analysis workshop for the University of California Riverside"
-	copyright = "Released under the MIT license"
+  # Site author
+  author = "Your Name"
 
+  # Description/subtitle for homepage (can be Markdown)
+  description = "A simple Hugo theme based on the Bootstrap v4 blog example."
 
+  # Format dates with Go's time formatting
+  date_format = "Mon Jan 02, 2006"
 
+  # verification string for Google Webmaster Tools
+  #google_verify_meta = "BAi57DROASu4b2mkVNA_EyUsobfA7Mq8BmSg7Rn-Zp9"
 
-	logo = ""
-	favicon = ""
+  # verification string for Bing Webmaster Tools
+  #bing_verify_meta = "3DA353059F945D1AA256B1CD8A3DA847"
 
-	permalink = "#"
+  # verification string for Yandex Webmaster Tools
+  #yandex_verify_meta = "66b077430f35f04a"
 
-	# Custom assets
-	custom_css = []
-	custom_js  = []
+  [params.sidebar]
+    # Optional about block for sidebar (can be Markdown)
+    about = "A simple Hugo theme based on the [Bootstrap v4 blog example](http://v4-alpha.getbootstrap.com/examples/blog/)."
 
-	# Syntax highlighting theme
-	highlight_css  = ""
+    # How many posts to show on the sidebar (Default: 5)
+    #num_recent_posts = 2
 
-	[params.palette]
-    	primary = "blue"
-    	accent  = "teal"
+  [params.social]
+    # Optional, used for attribution in Twitter cards
+    # See: https://dev.twitter.com/cards/types/summary-large-image
+    twitter = "username"
 
-    [params.font]
-    	text = "Open Sans"
-    	code = "Ubuntu Mono"
+  [params.sharingicons]
+    # Hide the sharing icons on posts? (Default: false)
+    hide = false
 
+    # Optionally, set any of these to false to hide them:
+    #facebook = true
+    #googleplus = true
+    #linkedin = true
+    #twitter = true
 
-[social]
-	twitter = "regan008"
-	email   = "aregan2@gmu.edu"
+# Default content language for Hugo 0.17's multilingual support (default is "en")
+# See: https://github.com/spf13/hugo/blob/master/docs/content/content/multilingual.md
+#DefaultContentLanguage = "en"
 
-
-# [[menu.main]]
-# 	name   = "Introduction"
-# 	url    = "introduction/"
-# 	weight = 0
-
-[[menu.main]]
-	name   = "Getting started"
-	url    = "getting-started/"
-	weight = 10
-
-[[menu.main]]
-	name = "Using Voyant Tools"
-	url = "using-voyant/"
-	weight = 20
-
-[[menu.main]]
-	name = "Resources"
-	url = "resources"
-	weight = 30
-
-[blackfriday]
-	smartypants	= true
-	fractions = true
-	smartDashes = true
-	plainIDAnchors = true
+# Languages to render
+#[languages.en]
+#[languages.bg]
