@@ -1,6 +1,6 @@
 baseurl = "https://www.amanda-regan.com/Workshop-UCR/"
 languageCode = "en-us"
-title = "Voyant Tools Workshop"
+title = "Text Analysis with Voyant Tools"
 theme = "hugo-theme-bootstrap4-blog"
 metadataformat = "yaml"
 
@@ -14,22 +14,16 @@ paginate = 5
   post = "/:year/:month/:title/"
   page = "/:slug/"
 
-[[menu.sidebar]]
-  name = "Link 1"
-  url = "https://example.com"
 
-[[menu.sidebar]]
-  name = "Link 2"
-  url = "https://example.org"
 
 # Theme variables
 #
 [params]
   # Site author
-  author = "Your Name"
+  author = "Amanda Regan"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "A simple Hugo theme based on the Bootstrap v4 blog example."
+  description = "A Workshop at the University of California, Riverside"
 
   # Format dates with Go's time formatting
   date_format = "Mon Jan 02, 2006"
@@ -45,24 +39,26 @@ paginate = 5
 
   [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
-    about = "A simple Hugo theme based on the [Bootstrap v4 blog example](http://v4-alpha.getbootstrap.com/examples/blog/)."
+    about = "This workshop is an introduction to text analysis for humanities scholars using Voyant Tools. We will begin by looking at a variety of text analysis projects and discuss numerous popular text analysis methodologies. We will then install the Voyant Server and explore the tools avialable while discussing the potential applications for teaching, research, and public humanities projects."
 
     # How many posts to show on the sidebar (Default: 5)
-    #num_recent_posts = 2
+    #num_recent_posts = 0
 
   [params.social]
     # Optional, used for attribution in Twitter cards
     # See: https://dev.twitter.com/cards/types/summary-large-image
-    twitter = "username"
+    twitter = "regan008"
+    github = "regan008"
 
   [params.sharingicons]
     # Hide the sharing icons on posts? (Default: false)
     hide = false
 
     # Optionally, set any of these to false to hide them:
-    #facebook = true
-    #googleplus = true
-    #linkedin = true
+    #facebook = false
+
+    #googleplus = false
+    #linkedin = false
     #twitter = true
 
 # Default content language for Hugo 0.17's multilingual support (default is "en")
