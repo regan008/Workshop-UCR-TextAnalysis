@@ -39,7 +39,7 @@ Although Voyant Tools is a web based set of tools, we'll be downloading it and r
  3. Unzip the Voyant Server Package. The resulting folder of files should look like this:
  {{< figure src="images/voyant-server-zip-contents.png" >}}
  4. Double click the VoyantServer.jar file. When you open this file a new window (see image below) will pop up with numerous server controls. If you're curious about what these all mean you can read about the options in the documentation for the Voyant Server. However, in short, this window begins to launch a server which will generate the Voyant tools interface.
- {{< figure src="/images/voyantserver-controls.png" >}}
+ {{< figure src="images/voyantserver-controls.png" >}}
  5. Once the server has booted up a new browser window will open.
- {{< figure src="/images/voyantserver-home.png" >}}
+ {{< figure src="images/voyantserver-home.png" >}}
  ** If your default browser is Chrome you'll need to paste the address into a new window in a different browser. Both Safari and Firefox work. The default address should be: http://127.0.0.1:8888/
