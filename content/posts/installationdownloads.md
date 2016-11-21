@@ -13,21 +13,21 @@ weight: 06
     <div class="card card-block">
       <h4 class="card-title">Java</h4>
       <p class="card-text">Before downloading Voyant, you will need to download Java if you don't already have it. If you do have Java installed, you should still download and update your version.</p>
-      <a href="#" class="btn btn-outline-primary">Get Java</a>
+      <a href="https://www.java.com/en/" class="btn btn-outline-primary">Get Java</a>
     </div>
   </div>
   <div class="col-sm-4">
   <div class="card card-block">
     <h4 class="card-title">Voyant Server</h4>
     <p class="card-text">This is a rather large download. If you can't get it to download, I will have copies available on flash drives.</p>
-    <a href="#" class="btn btn-outline-primary">Get Voyant Server</a>
+    <a href="http://docs.voyant-tools.org/resources/run-your-own/voyant-server/" class="btn btn-outline-primary">Get Voyant Server</a>
   </div>
   </div>
   <div class="col-sm-4">
   <div class="card card-block">
     <h4 class="card-title">Sample Data</h4>
     <p class="card-text">This sample data has been curated from a larger corpus. It contains the entirety of the physical education publication <i>Mind and Body</i> which ran from 1882 until 1936.</p>
-    <a href="#" class="btn btn-outline-primary">Get the Data</a>
+    <a href="https://github.com/regan008/MindandBodyCorpus" class="btn btn-outline-primary">Get the Data</a>
   </div>
   </div>
 </div>
