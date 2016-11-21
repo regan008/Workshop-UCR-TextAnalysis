@@ -37,7 +37,7 @@ Although Voyant Tools is a web based set of tools, we'll be downloading it and r
  1. [Install or Update Java](https://www.java.com/en/)
  2. Download [Voyant Server from Github](https://github.com/sgsinclair/VoyantServer/releases/tag/2.2.0-M2) (If the download doesn't work for you, I have the file on a flash drive)
  3. Unzip the Voyant Server Package. The resulting folder of files should look like this:
- {{< figure src="../images/voyant-server-zip-contents.png" >}}
+ {{< figure src="images/voyant-server-zip-contents.png" >}}
  4. Double click the VoyantServer.jar file. When you open this file a new window (see image below) will pop up with numerous server controls. If you're curious about what these all mean you can read about the options in the documentation for the Voyant Server. However, in short, this window begins to launch a server which will generate the Voyant tools interface.
  {{< figure src="/images/voyantserver-controls.png" >}}
  5. Once the server has booted up a new browser window will open.
