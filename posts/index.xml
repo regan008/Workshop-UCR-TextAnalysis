@@ -54,7 +54,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;../images/voyant-server-zip-contents.png&#34; /&gt;
+        &lt;img src=&#34;images/voyant-server-zip-contents.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -130,7 +130,7 @@
 &lt;li&gt;Select &lt;strong&gt;Upload&lt;/strong&gt; from the Voyant Tools Homepage 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://www.amanda-regan.com/Workshop-UCR/images/voyantserver-home.png&#34; /&gt;
+        &lt;img src=&#34;images/voyantserver-home.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -138,7 +138,7 @@
 &lt;li&gt;Navigate to the location where the file is saved on your computer. (Likely the downloads folder). 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://www.amanda-regan.com/Workshop-UCR/images/upload-data.png&#34; /&gt;
+        &lt;img src=&#34;images/upload-data.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -146,7 +146,7 @@
 &lt;li&gt;Once you&amp;rsquo;ve selected the file, click open and Voyant will upload the file and direct you to the dashboard. This may take a few minutes since this is a very large corpus of documents. 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://www.amanda-regan.com/Workshop-UCR/images/default-skin.png&#34; /&gt;
+        &lt;img src=&#34;images/default-skin.png&#34; /&gt;
     
     
 &lt;/figure&gt;
